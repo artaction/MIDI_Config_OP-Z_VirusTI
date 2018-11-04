@@ -2,7 +2,7 @@
 	"alt_program_change" : true,
 	"channel_one_to_active" : false,
 	"enable_program_change" : true,
-	"incoming_midi" : true,
+	"incoming_midi" : false,
 	"midi_echo" : false,
 	"outgoing_midi" : true,
 	"parameter_cc_out" : 
@@ -26,6 +26,6 @@
 	],
 	"timing_clock_in" : true,
 	"timing_clock_out" : true,
-	"track_channels" : [ 7, 7, 7, 7, 9, 10, 11, 8, 8, 8, 10, 10, 10, 10, 10, 10 ],
+	"track_channels" : [ 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 10, 10, 10, 10, 10, 10 ],
 	"track_enable" : [ true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true ]
 }
